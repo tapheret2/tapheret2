@@ -5,9 +5,6 @@
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tapheret2&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css)
 
-## Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tapheret2&theme=radical&hide_border=true)
-
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
