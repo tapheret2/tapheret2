@@ -16,4 +16,4 @@
 
 ---
 
-*Profile auto-updated via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
