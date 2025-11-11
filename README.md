@@ -1,7 +1,6 @@
 # Hi there, I'm Phat
 
-![Phat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tapheret2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
+![Phat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tapheret2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tapheret2&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css)
 
