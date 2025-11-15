@@ -6,9 +6,6 @@
 
 ![Phat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tapheret2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-## GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tapheret2&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## Most Used Languages
 
