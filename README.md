@@ -14,9 +14,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tapheret2&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css)
 
-## Contribution Graph
 
-[![Phat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tapheret2&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Skills
 
