@@ -36,6 +36,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
+[![The-Kickstarter-Dapp-Contract](https://github-readme-stats.vercel.app/api/pin/?username=tapheret2&repo=The-Kickstarter-Dapp-Contract&theme=radical)](https://github.com/tapheret2/The-Kickstarter-Dapp-Contract)
+
 > _"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."_ – **Bill Gates**
 
 ---
