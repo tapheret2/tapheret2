@@ -1,9 +1,14 @@
 # Hi there, I'm Phat 👋
+
 ![Phat's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tapheret2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+### GitHub Contribution Snake
+![GitHub Contribution Snake](https://raw.githubusercontent.com/tapheret2/tapheret2/output/github-contribution-grid-snake.svg)
+
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tapheret2&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css)
-## Skills
 
+## Skills
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,12 +39,13 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### AI Agents & Agentic Systems
-**![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-9F7AEA?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B00?style=for-the-badge&logo=robot&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C2541?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B00?style=for-the-badge&logo=crewai&logoColor=white)**
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B00?style=for-the-badge&logo=crewai&logoColor=white)
+
 ---
